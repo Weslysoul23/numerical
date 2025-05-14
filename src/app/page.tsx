@@ -9,10 +9,10 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-start p-6 md:p-12 lg:p-24 bg-gradient-to-b from-background to-muted/30">
       <div className="text-center mb-16">
         <h1 className="text-5xl md:text-6xl font-extrabold text-primary mb-4 drop-shadow-sm">
-          ApproximateMath
+          Number Approximation
         </h1>
         <p className="text-lg md:text-xl text-muted-foreground">
-          Tools for Numerical Approximation
+          Tools for Estimating Numbers and Calculating Derivatives
         </p>
       </div>
 

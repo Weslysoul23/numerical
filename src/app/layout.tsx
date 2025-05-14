@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'ApproximateMath',
+  title: 'Number Approximation',
   description: 'Mathematical Approximation Tools built with Next.js',
 };
 
