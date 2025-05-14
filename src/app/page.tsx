@@ -57,7 +57,7 @@ export default function Home() {
 
       <footer className="mt-20 text-center text-sm text-muted-foreground">
         <hr className="my-6 border-muted w-32 mx-auto" />
-        <p>Built with <strong>Next.js</strong> & <strong>Shadcn/UI</strong>. All calculations are client-side.</p>
+        <p> All calculations are Accurate</p>
       </footer>
     </main>
   );
